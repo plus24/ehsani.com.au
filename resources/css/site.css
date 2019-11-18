@@ -18,6 +18,10 @@ body {
   color: #D8A0DF;
 }
 
+.scope-highlight {
+  color: #D4D4D4;
+}
+
 .var-highlight{
   color: #C0AD60;
 }
